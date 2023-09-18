@@ -1,0 +1,23 @@
+body
+{
+    color: blue;
+    background-color: yellow;
+}
+
+#score
+{
+    font-size: 30px;
+    margin-left: -400px;
+}
+
+#timer
+{
+    font-size: 40px;
+    float: right;
+    margin-right: 50px;
+}
+
+#drawnSketch
+{
+    color: blue;
+}
